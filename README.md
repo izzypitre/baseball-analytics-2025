@@ -1,1 +1,1 @@
-# baseball-analytics-2025
+This project is a Milwaukee Brewers roster analytics case study built to identify team and player-level gaps using MLB Statcast and advanced metrics. The goal is to use data to evaluate roster construction and make evidence-based recommendations for roster improvement 
